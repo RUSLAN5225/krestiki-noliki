@@ -18,3 +18,5 @@ Tic-tac-toe-это компьютерная игра крестики-нолик
 Чтобы устоновить клонируйте репозиторий и откройте его в PyCharm.
 
 ```sh
+https://github.com/RUSLAN5225/krestiki-noliki.git
+```
